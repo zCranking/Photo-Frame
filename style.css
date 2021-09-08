@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+.h3{
+    font-size: 110px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(8, 83, 181);
+    text-shadow: 3px 6px 8px hsl(148, 100%, 50%), 3px 6px 10px hsl(148, 100%, 50%);
+}
+.button{
+    height: 50px;
+    width: 410px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(240, 53, 20);
+    font-size: 30px;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 10px 10px 6px grey;
+    margin-top: 150px;
+    color: rgb(0, 255, 115);
+}
